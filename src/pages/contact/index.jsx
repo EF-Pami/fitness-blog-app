@@ -3,7 +3,7 @@ import * as S from "../../components/Styles/Contact.styles";
 
 export default function Contact() {
     useEffect(() => {
-        document.title = "EasyBuy-Hub | Contact";
+        document.title = "Fitness-blog | Contact";
     }, []);
 
     return (
