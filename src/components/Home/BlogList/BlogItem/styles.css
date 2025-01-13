@@ -16,11 +16,11 @@
   
 .blogItem-desc {
     position: relative;
-    max-height: 50px;
+    max-height: auto;
     overflow: hidden;
     padding-right: 0.6rem;
     font-size: 0.8rem;
-    color: #a9a9a9;
+    color: black;
 }
   
 .blogItem-desc::before {
@@ -57,7 +57,7 @@
   
 .blogItem-author p {
     font-size: 0.6rem;
-    color: #a9a9a9;
+    color: black;
     font-weight: 600;
 }
   

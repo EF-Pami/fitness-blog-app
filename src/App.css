@@ -1,5 +1,11 @@
 @import "~@fortawesome/fontawesome-free/css/all.css";
 
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+}
+
 
 .App {
   text-align: center;
